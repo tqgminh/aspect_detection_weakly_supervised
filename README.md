@@ -1,1 +1,1 @@
-# aspect_detection_weakly_supervised
+# Weakly Supervised Aspect Detection

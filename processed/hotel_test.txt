@@ -1,0 +1,593 @@
+sàn nhà_tắm thiết_kế độ dốc hơi cạn tràn dơ|ROOM_AMENITIES
+phòng_ốc sạch_sẽ phòng xây_dựng đi hoạt_động tầm 4|ROOMS
+giường chăn ga gối hơi bẩn|ROOM_AMENITIES
+vị_trí biển thuận_tiện|LOCATION
+sẽ khách_sạn dịp đà_nẵng|HOTEL
+một kỳ thú_vị|HOTEL
+dọn phòng sạch khu nhà_tắm ko cọ tường kính|ROOMS
+ông chủ thân_thiện|SERVICE
+mình book phòng double khách_sạn sắp_xếp cũ phòng twin 2 giường|HOTEL
+cảm_giác tệ nhà_nghỉ rẻ_tiền|HOTEL
+nhân_viên hơi awkward kinh_nghiệm|SERVICE
+rất cũ_kĩ|ROOM_AMENITIES
+wifi|FACILITIES
+nội_thất hiện_đại sạch_sẽ đầy_đủ đồ_dùng cần_thiết|ROOM_AMENITIES
+khăn_tắm_hơi cũ thô ráp|ROOM_AMENITIES
+có nhân_viên lễ_tân nói_chuyện thân_thiện lắm|SERVICE
+phòng|ROOMS
+khóa hơi|ROOM_AMENITIES
+khách_sạn tầm đẹp lắm|HOTEL
+nói_chung tuyệt vs giá|HOTEL
+vị_trí thuận_tiện đẹp|LOCATION
+khách_sạn thuê phương_tiện di_chuyển|FACILITIES
+lần đn touch <3|HOTEL
+nhân_viên dễ_thương thân_thiện|SERVICE
+nhân_viên phục_vụ chu_đáo nhiệt_tình|SERVICE
+phòng cách_âm lắm|ROOMS
+khung_cảnh hostel đẹp độc_đáo khuân viên bãi_cỏ cây_xanh mát_mẻ nhân_viên nhiệt_tình thân_thiện|HOTEL
+rèm cản dậy|ROOM_AMENITIES
+hồ bơi xúi|FACILITIES
+phòng sạch_sẽ đẹp|ROOMS
+nhân_viên thân_thiện|SERVICE
+chúng_tôi đợt công_tác|HOTEL
+nhân_viên sảnh ok vui_vẻ ok|SERVICE
+ánh_sáng gương soi mặt tối|ROOM_AMENITIES
+phòng tắm đọng|ROOM_AMENITIES
+tuy_nhiên phòng rộng đẹp lắm|ROOMS
+nhân_viên nhiệt_tình linh_động sử lý phản_hồi|SERVICE
+vị_trí đẹp sông cầu|LOCATION
+có dịp trở_lại ... phòng cách_âm tiếng ồn hơi kém|HOTEL
+móc treo đồ dép k tv tủ_lạnh k|ROOM_AMENITIES
+nguyên_liệu bữa chu_đáo bếp|FOOD&DRINKS
+có minhhouse|SERVICE
+bữa ngon|FOOD&DRINKS
+phòng tiện_nghi sạch_sẽ|ROOMS
+không chê|HOTEL
+nhân_viên xộc kiểm_tra kiểm_tra ... không_nói rút phựt dây sạc quẳng điện_thoại bàn|SERVICE
+đáng giá tiền|HOTEL
+chưa thang_máy|FACILITIES
+nhà_tắm phòng vệ_sinh sạch thuận_tiện|ROOM_AMENITIES
+phòng_ốc sạch_sẽ gọn_gàng|ROOMS
+cửa đi tầm chân biển|LOCATION
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+yên tỉnh sạch_sẽ giá hợp_lý|HOTEL
+chắc_chắn|HOTEL
+phòng sạch_sẽ thoải_mái|ROOMS
+thiết_kế nhà_vệ_sinh thuận_tiện|ROOM_AMENITIES
+khách sản tầng lắp thang_máy|FACILITIES
+có_thể khách_sạn lý_tưởng|LOCATION
+phòng hơi|ROOMS
+nếu tiền đừng bẩn ga trải giường khăn_tắm ép bồi_thường 15 bẩn 3 ga giường vết bẩn bẩn 3 ga thanh_toán 3 ga vứt đi|ROOM_AMENITIES
+giá_cả ok|HOTEL
+phụ_thu rõ_ràng đầu|HOTEL
+báo dọn phòng ko hề dọn|SERVICE
+nếu lịch_sự trật_tự bất_lịch_sự ồn_ào ngủ|HOTEL
+bữa ngon|FOOD&DRINKS
+theo khen booking đa_phần nội_thất hề|ROOM_AMENITIES
+nhân_viên chu_đáo|SERVICE
+món bữa ko phong_phú 2 món|FOOD&DRINKS
+mình hi_vọng dọn phòng đổ rác|ROOMS
+giường nằm lắm đệm chăn sổ_lông hơi gai thoải_mái|ROOM_AMENITIES
+phòng đẹp|ROOMS
+buổi tối tiếng_động hơi ồn_ào|HOTEL
+phòng rộng_rãi thoải_mái tiện_nghi|ROOMS
+máy_lạnh lạnh lắm|ROOM_AMENITIES
+phòng hơi|ROOMS
+gần nhà_hàng_hải_sản|HOTEL
+phòng cơ_bản sạch_sẽ thái_độ nhân_viên phòng thường_xuyên khử mùi :)|SERVICE
+bể_bơi đẹp nghỉ dịp xây sửa ảnh_hưởng|FACILITIES
+lần có_lẽ thử trải_nghiệm dịch_vụ|HOTEL
+chú_ý vệ_sinh gầm giường sạch_sẽ|ROOMS
+sàn phòng trải thảm hút bụi hơi bẩn|ROOMS
+khách_sạn xây|HOTEL
+bể_bơi view đẹp|FACILITIES
+rất tiện hải_sản khu bờ biển khu tắm bùn galina asia_park|LOCATION
+không tivi phòng|ROOM_AMENITIES
+khách_sạn biển|LOCATION
+host cực_kì cute|SERVICE
+đồ phong_phú|FOOD&DRINKS
+khách báo lễ_tân báo_thức ko gọi quên|SERVICE
+bữa ngon đầy_đủ món|FOOD&DRINKS
+ko chê|HOTEL
+điện_thoại bàn gọi lễ_tân|SERVICE
+phòng cách_âm kém tiếng_ồn hành_lang|ROOMS
+mọi ok giá|HOTEL
+nhân_viên nhiệt_tình|SERVICE
+không quảng_cáo booking|HOTEL
+cảm_ơn hoàng suốt khách_sạn|SERVICE
+lễ_tân khách_sạn nhiệt_tình yêu|SERVICE
+drap giường vết ố vàng đỏ|ROOM_AMENITIES
+nhân_viên dễ_thương|SERVICE
+giường rộng thoải_mái|ROOM_AMENITIES
+khăn_tắm bẩn gối bẩn|ROOM_AMENITIES
+bể_bơi đẹp|FACILITIES
+dù phiếu phòng kia mà_còn nhầm_lẫn|SERVICE
+ksan buffet cực ổn|FOOD&DRINKS
+các dịch_vụ kèm hostel rẻ hotel|FACILITIES
+chỉ phòng rò hình_như tủ_lạnh chảy hơi bẩn đi|ROOM_AMENITIES
+ks tư_vấn nhiệt_tình chủ_ks tư vần nha|SERVICE
+phòng sạch_sẽ thoáng thoải_mái|ROOMS
+và món gọi phở thịt bò hơi dai|FOOD&DRINKS
+cảm_ơn khách_sạn kỳ tuyệt_vời|HOTEL
+bữa ngon món|FOOD&DRINKS
+phòng_ốc gọn_gàng thoải_mái|ROOMS
+gần bãi biển đi 2 phút 59 giây|LOCATION
+khăn_tắm rách_bươm 5/6 rách|ROOM_AMENITIES
+lần đn|HOTEL
+sẽ ghé|HOTEL
+nhìn rộng_rãi ảnh hướng phòng cửa_sổ|ROOMS
+thiết_kế san đẹp thư_giãn thoải_mái|HOTEL
+nhân_viên nhiệt_tình tiện_ích đc gối khăn_tắm chăn đc đáp_ứng|SERVICE
+cung_cấp bổ_sung vật_dụng phòng tắm hàng|ROOM_AMENITIES
+những nụ cười ấm_áp minh_house|SERVICE
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+phòng đầy_đủ tiện_nghi thoải_mái|ROOM_AMENITIES
+đồ_dùng toilet đồ|ROOM_AMENITIES
+tới xe chỗ thuê xe đôi_co tiền bo thẳng_thừng|FACILITIES
+nhân_viên lịch_sự ân_cần|SERVICE
+nhân_viên thân_thiện vui_vẻ|SERVICE
+nơi biển 30-40 m đi biển bình_minh tắm biển biển ấm|LOCATION
+không_gian yên_tĩnh mát_mẻ|HOTEL
+nếu trả_lời đầu ko tiền phụ_thu book ks|SERVICE
+phòng rộng_rãi sạch_sẽ|ROOMS
+xứng khách_sạn happy day|HOTEL
+bãi_biển đẹp|FACILITIES
+dưới tầng bếp phục_vụ đồ bao_gồm tiền_phòng chất_lượng|FOOD&DRINKS
+tuy hơi trung_tâm thành_phố ảnh_hưởng đường_phố đà_nẵng rộng thoáng đi|LOCATION
+bữa ổn phục_vụ|FOOD&DRINKS
+lễ_tân đứng lịch_sự nhiệt_tình|SERVICE
+wifi mặc_dù đổi phòng|FACILITIES
+tất_cả nhân_viên bảo_vệ phục_vụ lễ_tân nhiệt_tình cởi_mở thân_thiện|SERVICE
+ok phòng muỗi|ROOMS
+sẽ trở_lại đà_nẵng chuyến đi đáng_giá tiền|HOTEL
+top roof quầy bar hồ bơi thoáng mát xinh thư_giãn yên_tĩnh biển thành_phố|FACILITIES
+chỉ cải_thiện cách_âm phòng hoàn thiên cách_âm phòng vs phòng tắm khu_vực hoàn_hảo lắm|ROOMS
+chủ khách_sạn nhiệt_tình thân_thiện|SERVICE
+phòng sạch_sẽ tiện_nghi|ROOMS
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+sẽ giới_thiệu bạn_bè khách_sạn|HOTEL
+nhân_viên khách_sạn thân_thiện|SERVICE
+sẽ|HOTEL
+phòng đẹp thoáng tiện|ROOMS
+thoải_mái tiện_nghi|HOTEL
+ks sạch_sẽ yên_tĩnh|HOTEL
+nhân_viên nhiệt_tình|SERVICE
+khách_sạn biển khu trung_tâm địa_điểm nổi_tiếng|LOCATION
+nhân_viên nhiệt_tình thân_thiện|SERVICE
+thiết_kế phòng đẹp ban_công thoáng|ROOMS
+k bao h|HOTEL
+mọi tuyệt_vời|HOTEL
+yên_tĩnh tôi phòng đơn 1 giường cung_cấp một_mình 2 giường đơn|HOTEL
+đi bất_tiện|FACILITIES
+nhìn_chung đáng_giá tiền khách_sạn giá|HOTEL
+toalet mùi|ROOM_AMENITIES
+phòng tiện_nghi|ROOMS
+chuẩn tiêu_chí 4|HOTEL
+phòng_ốc gọn_gàng sạch_sẽ mùi thơm nhẹ dễ_chịu|ROOMS
+mình phòng deluxe view sea view ok|ROOMS
+hostel chó yêu kinh_khủng =)) phòng nằm ngủ đêm điều_hòa_mát|HOTEL
+nội_thất xuống_cấp sạch_sẽ|ROOM_AMENITIES
+nhà_vệ_sinh lắm mùi sàn nhà_vệ_sinh chỗ thóat bất_tiện|ROOM_AMENITIES
+phòng view|ROOMS
+chuyến bay tối phòng ký gửi hành ký miễn_phí chiều_tối khách_sạn phòng vệ_sinh thoải_mái tắm_rửa sạch_sẽ máy_bay sài_gòn|HOTEL
+cửa_sổ phòng lan_can chắn|ROOMS
+view biển đẹp|HOTEL
+nên uống hoa_quả buffet|FOOD&DRINKS
+từ khách_sạn cầu rồng|HOTEL
+phòng mùi thơm dịu|ROOMS
+rất tiền|HOTEL
+bữa ngon lắm thức_ăn lặp đơn_điệu món phở mì_quảng bún_chả tệ|FOOD&DRINKS
+gần biển|LOCATION
+cơ_mà giá phòng ko|ROOMS
+cảm_thấy sock đối w dịch_vụ of 1 khách_sạn 3|HOTEL
+thuận_tiện đi_lại biển|LOCATION
+đi trúng hôm đông bao thoải_mái|HOTEL
+giá xứng_đáng địa_điểm|HOTEL
+bữa ngon đổi món|FOOD&DRINKS
+k hướng_dẫn bữa wifi|SERVICE
+mình discount 10|HOTEL
+gần cầu rồng|LOCATION
+khách gọi điện nhắc k gửi|SERVICE
+máy_nước nóng nóng lạnh|ROOM_AMENITIES
+phòng nghỉ sạch_sẽ|ROOMS
+view đẹp lắm|HOTEL
+phòng phòng yên_tĩnh khoản hài_lòng|ROOMS
+nhân_viên nhiệt_tình thân_thiện|SERVICE
+sang tiếp :) ko j phàn_nàn|HOTEL
+ga giường gối cải_thiện|ROOM_AMENITIES
+không_gian rộng_rãi|HOTEL
+bữa hơi nghèo_nàn|FOOD&DRINKS
+nếu chỗ ngủ đêm di_chuyển hội_an thích_hợp|HOTEL
+chị chủ dễ_thương nhiệt_tình lắm|SERVICE
+địa_điểm công_viên biển đông thuận tiên vui_chơi|LOCATION
+bảng giá giặt hơi chấp_nhận khách_sạn 4|FACILITIES
+vị_trí khách_sạn đẹp đi_lại thành_phố biển tiện_lợi|LOCATION
+nhân_viên nhiệt_tình|SERVICE
+phòng đẹp túi_tiền|ROOMS
+chỗ sạch riêng_tư dorm|HOTEL
+khách_sạn trung_tâm|LOCATION
+hotel's reception consult to me about attraction and restaurant location|SERVICE
+các bàn_giao chìa_khóa ko cẩn_thận chìa_khóa|SERVICE
+hostel nằm khu hồ_nghinh mỹ_khê bãi biển độ 5-6 phút đi thuận_tiện|LOCATION
+từ khách_sạn đi trung_tâm_thành_phố dễ_dàng|LOCATION
+mình tông màu xanh vàng khách_sạn đà nẵng art_hotel :d|HOTEL
+nhân_viên chằm_chằm giúp|SERVICE
+nhân_viên nam xách hành_lý đỡ phụ|SERVICE
+vị_trí ks đẹp|LOCATION
+tôi chuyến công_tác đầu 12|HOTEL
+giao_tiếp tẻ_nhạt|SERVICE
+nếu giá ok|ROOMS
+phòng hơi ổn|ROOMS
+vị_trí trung_tâm tiện_lợi mặt khách_sạn nằm đường lê_duẩn mua_sắm|LOCATION
+từ khách_sạn biển|LOCATION
+ăn_sáng ok|FOOD&DRINKS
+vị_trí khách_sạn sông hàn nằm cầu_rồng cầu sông hàn|LOCATION
+nv lịch_sự thân_thiện|SERVICE
+nhược_điểm hơi phòng tầng khách_sạn nằm đường xây di_chuyển gọi xe hầu_như trục đường|HOTEL
+tuy_nhiên lưu_ý nhân_viên lễ_tân nói_xấu mặt|SERVICE
+khách_sạn chiều khó_tính|HOTEL
+đồ|ROOM_AMENITIES
+nếu phòng đi_lại dọn đồ|ROOMS
+tụi đi miết khó_chịu trưa nghỉ_ngơi tiếng ngủ|ROOMS
+nhiệt_tình|SERVICE
+bữa tệ mì hạn tiền bữa tệ mì hạn tiền|FOOD&DRINKS
+khách_sạn phục_vụ đồ thức_uống ban_ngày đa_phần nhu_cầu ăn_uống khách_hàng khách_sạn chủ_yếu ban_đêm|FOOD&DRINKS
+bữa phong_phú|FOOD&DRINKS
+đồ_ăn khách_sạn rẻ|FOOD&DRINKS
+khách_sạn tour tham_quan hướng_dẫn_viên nhiệt_tình am_hiểu địa_danh tiếng anh|SERVICE
+phòng nghỉ sạch_sẽ|ROOMS
+gần biển cầu sông hàn|LOCATION
+bữa cải_thiện món đa_dạng|FOOD&DRINKS
+bữa ngon đầy_đủ|FOOD&DRINKS
+nhân_viên phục_vụ lịch_sự ân_cần|SERVICE
+các nhân_viên nhiệt_tình tư_vấn giúp_đỡ|SERVICE
+giá_cả hợp_lý|HOTEL
+nhân_viên lễ_tân ko chuyên_nghiệp thái_độ phục_vụ kém|SERVICE
+phòng rộng sạch_sẽ view đẹp|ROOMS
+giường thoải_mái sạch|ROOM_AMENITIES
+chúng_tôi 3 phòng hướng biển trông thoáng che_chắn tầm|ROOMS
+các chủ thân_thiện|SERVICE
+nhân_viên vui_vẻ nhiệt_tình|SERVICE
+phòng bài_trí đẹp view tòa hành_chính cửa_sổ đẹp|ROOMS
+khách_sạn phòng đẹp sạch_sẽ|ROOMS
+thái_độ nhân_viên nhân_viên thân_thiện nhiệt_tình|SERVICE
+cheap price|ROOMS
+nhaan viên cực_kỳ nhiệt_tình|SERVICE
+biển đẹp|LOCATION
+phục_vụ khách_sạn|SERVICE
+nhìn_chung khách_sạn 4 ven biển|HOTEL
+nhân_viên lễ_tân bảo_vệ cực_kì thân_thiện dễ_thương|SERVICE
+phòng tắm kính ngăn chắn bất_tiện tăm|ROOM_AMENITIES
+bữa kéo|ROOM_AMENITIES
+đáng đồng_tiền|HOTEL
+gần khách_sạn địa_điểm chủ_yếu nhà_hàng_hải_sản biển|LOCATION
+lễ_tân trẻ ban_đầu đồ gửi phòng gửi đồ sợ nhầm_lẫn đồ phòng hết_sức vô_lý ko đồng_ý góc sảnh máy_ảnh lễ_tân phòng gửi đồ|SERVICE
+mọi tuyệt_vời|HOTEL
+không quảng_cáo 1 lầu 2 phòng sông hàn view cực_kỳ tệ ghi booking|ROOMS
+phòng rộng_rãi thoải_mái|ROOMS
+nhân_viên thân_thiện|SERVICE
+có thang_máy|FACILITIES
+touch chạm chạm trái_tim anh_chị chủ siêu dễ_thương thân_thiện|SERVICE
+nhân_viên niềm_nở vui_vẻ giao_tiếp khách_hàng|SERVICE
+nhưng nhân_viên ks đổi xe hôm|SERVICE
+tiện_nghi phòng đầy_đủ nội_thất đẹp thích_hợp sống ảo|ROOM_AMENITIES
+nhân_viên khách_sạn thân_thiện|SERVICE
+giá phòng đắt|ROOMS
+phóng view sông hàn tuyệt đẹp tối|ROOMS
+công_suất điều_hoà|ROOM_AMENITIES
+đèn_trần toilet bố_trí cần_thiết chiếu_sáng|ROOM_AMENITIES
+ăn_sáng món trái_cây tiếp_đón|FOOD&DRINKS
+wifi hơi yếu|FACILITIES
+nhân_viên ks ok liên_kết thuê xe ăn_nói chợ_búa sỗ_sàng tiền nói_chuyện chạc|SERVICE
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+nếu lạ đà nẵng khách_sạn giới_thiệu bạn_bè|HOTEL
+bữa món khách_sạn ngang_giá|FOOD&DRINKS
+phục_vụ nhiệt_tình|SERVICE
+nhân_viên thân_thiện|SERVICE
+lên báo nhân_viên ks nhân_viên đổ_thừa bảo_vệ già giá rẻ k fải ks|SERVICE
+điều nhân_viên thân_thiện nhiệt_tình|SERVICE
+không suối tiền miễn_phí|HOTEL
+bãi tắm đối_diện ks biển cấm tắm|HOTEL
+nhân_viên dọn phòng hàng ko sạch|ROOMS
+phòng sạch_sẽ dọn|ROOMS
+gần biển trung_tâm đi tiện_lợi|LOCATION
+tuyệt_vời|HOTEL
+khách_sạn biển khu_vực tắm rữa chân phòng|ROOM_AMENITIES
+chúng_tôi đợi món trứng rán quản_lý nhà_hàng đứng món nóng|FOOD&DRINKS
+bữa ổn lắm|FOOD&DRINKS
+view cửa_sổ phòng hơi tệ phong 102|ROOMS
+chúc bn sức_khoẻ v vui_vẻ ... không hẳn góp_ý|HOTEL
+túm tinh_thần hostel ngon rẻ hơi bổ|HOTEL
+khách_sạn gửi đồ phòng|SERVICE
+hệ_thống wifi ổn_định|FACILITIES
+phòng sạch_sẽ tiện_nghi|ROOMS
+hỏi đường k buồn trả_lời|SERVICE
+nv nhiệt_tình|SERVICE
+nhân_viên nhiệt_tình|SERVICE
+khòng cửa_sổ|ROOMS
+bữa ngon|FOOD&DRINKS
+nhân_viên thân_thiện nhiệt_tình hữu_ích|SERVICE
+mình bản_đồ nv kêu gợi_ý thăm đà_năng k ngơ_ngơ kiểu thờ|SERVICE
+con chó kute|HOTEL
+bữa đơn_giản|FOOD&DRINKS
+sạch_sẽ gọn_gàng phong_cách|HOTEL
+trong phòng set trà v cfe free trang_bị bình đun sẵn|FOOD&DRINKS
+sạch_sẽ tiện_nghi khách_sạn trang_trí cực dễ_thương|HOTEL
+giường đôi 1 m6 trẻ_em hơi chật|ROOM_AMENITIES
+bữa ngon menu phong_phú|FOOD&DRINKS
+lần dịp c.i_happyday|HOTEL
+sàn trải thảm lạnh chân đi_lại phòng bathroom sạch_sẽ mùi|ROOM_AMENITIES
+còn trường_hợp đi ăn_vặt book phòng kia sông tiện|HOTEL
+tuy_nhiên nhân_viên khách_sạn thông_báo chủ_động hài_lòng chuyến đi|HOTEL
+trang_thiết_bị tiện_nghi|ROOM_AMENITIES
+đi 1 giường thoải_mái|ROOM_AMENITIES
+nhân_viên gọi taxi|SERVICE
+nhân_viên nhiệt_tình mến|SERVICE
+cách xử_sự ok có_lẽ lỗi vô_tình trực lễ_tân thái_độ nhân_viên|SERVICE
+wiffi kém|FACILITIES
+bên cạnh bar đơn_vị tui bụi bụi chất chất phết|HOTEL
+vị_trí tiện di_chuyển|LOCATION
+điểm trừ giường hơi yếu hoạt_động tí rung :)))|ROOM_AMENITIES
+có lễ_tân ly cười chu_đáo khách_hàng đi mua thuốc|SERVICE
+đi trung_tâm|LOCATION
+và tệ gạc công tắt máy_lạnh tận lễ_tân|SERVICE
+biển mỹ khê|LOCATION
+ngay biển gió biển mát|LOCATION
+phòng sạch_sẽ|ROOMS
+bố_trí ổ_cắm điện hợp_lý ổ_cắm bất_tiện|ROOMS
+tôi ks dịp|HOTEL
+nội_thất ok|ROOM_AMENITIES
+không|HOTEL
+phòng_ngủ yên_tĩnh|ROOMS
+không chỗ phơi quần_áo|HOTEL
+tôi nâng_cấp phòng phí|ROOMS
+nhân_viên nhiệt_tình|SERVICE
+thái_độ phục_vụ nhân_viên|SERVICE
+đèn hơi tối|ROOM_AMENITIES
+mình thuê xe_máy khách_sạn đi 2|FACILITIES
+ti vi kênh giải_trí|ROOM_AMENITIES
+cả 2 lễ_tân nhiệt_tình thân_thiện|SERVICE
+các nhân_viên thân_thiện|SERVICE
+ăn_sáng ngon|FOOD&DRINKS
+buổi tối biểu_diễn âm_nhạc|HOTEL
+cuộn giấy_vệ_sinh hơi bé đặc phòng gia_đình 4 1 cuộn|ROOM_AMENITIES
+khách_sạn giá_cả|HOTEL
+không đồ nguyên seal|ROOM_AMENITIES
+nhất_định|HOTEL
+mọi|HOTEL
+bên khách_sạn quán cà_phê tiện|HOTEL
+phòng kê 14 rèm kéo riêng_tư chật|ROOMS
+nhân_viên dễ_tính|SERVICE
+ks cải_thiện phục_vụ dc|SERVICE
+bữa cải_thiện|FOOD&DRINKS
+cửa_sổ view sông tuyệt_vời|ROOMS
+còn gọi điện_thoại trả_lời điện_thoại 1 cứng nhắt linh_hoạt tình_huống|SERVICE
+phòng cực_kì sạch_sẽ|ROOMS
+phòng đèn|ROOM_AMENITIES
+các tiếp_tân bảo_vệ dễ_thương nhiệt_tình|SERVICE
+mỗi tội k máy sấy sấy_tóc tắm|ROOM_AMENITIES
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+gần biển trung_tâm|LOCATION
+thành tốn tiền phụ_thu tốn tiền book khách_sạn|HOTEL
+nhân_viên thanh_toán tiền khách_sạn trang booking.com thông_tin thanh_toán|HOTEL
+bác bảo_vệ thân_thiện|SERVICE
+bữa món ngon|FOOD&DRINKS
+rèm mỏng phòng thích_hợp trẻ|ROOM_AMENITIES
+bữa phong_phú|FOOD&DRINKS
+món|FOOD&DRINKS
+vị_trí ổn đi 5 p biển quán|LOCATION
+dọn phòng sạch_sẽ|ROOMS
+tốt mong_đợi ks 3 phòng booking.com tiện_lợi nhanh_chóng an_toàn|HOTEL
+phòng cực_kỳ sạch vô_cùng hiện_đại tiện_nghi|ROOMS
+đây phòng sếp sếp complain khách_sạn|HOTEL
+nhân_viên vô_cùng thân_thiện nở nụ cười|SERVICE
+phòng đẹp tiện_nghi|ROOMS
+giá phòng hợp_lý|ROOMS
+nhân_viên thân_thiện nhiệt_tình dễ_thương|SERVICE
+hệ_thống lắm|ROOM_AMENITIES
+phục_vụ salad ngon <3|FOOD&DRINKS
+nhân_viên helpful|SERVICE
+ăn_uống xung_quanh rẻ|HOTEL
+nhưng cơ_bản gia_đình hài_lòng lưu_trú|HOTEL
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+nhiều phòng cửa thông phòng cạnh|ROOMS
+đặc_biệt khách_sạn view đẹp địa_thế thuận_lợi đi_lại|LOCATION
+bữa ngon|FOOD&DRINKS
+cô dọn phòng quên khăn free phòng|SERVICE
+giường dorm trở_mình kêu cọt_kẹt cảm_giác thở phát tiếng_động ảnh_hưởng|ROOM_AMENITIES
+giường gối êm nằm|ROOM_AMENITIES
+nhân_viên cực_kì ưng thân_thiện hết_mức|SERVICE
+hai nhân_viên lễ_tân nhân_viên nhiệt_tình nhân_viên|SERVICE
+nhà 2 7.30 đồ_ăn|FOOD&DRINKS
+giá_cả hợp_lý trở_lại|HOTEL
+điều_hoà chậm mát k mát lắm quạt|ROOM_AMENITIES
+buffet ngon|FOOD&DRINKS
+phòng sạch nhân_viên dọn|ROOMS
+nhân_viên phục_vụ|SERVICE
+bữa sơ_sài|FOOD&DRINKS
+điểm trừ máy sấy_tóc phòng|ROOM_AMENITIES
+nhân_viên vui_vẻ|SERVICE
+gần biển đi xíu|LOCATION
+đáng_lẽ nhân_viên báo phòng ko|SERVICE
+nhiệt_tình|SERVICE
+mạng internet hơi chậm chập_chờn|FACILITIES
+đặc_biệt hostel 2 thú cưng dim_sum sushi cảm_giác thân_thiện|ROOM_AMENITIES
+bữa ngon món|FOOD&DRINKS
+gần siêu_thị tiện_lợi khá sân_bay|LOCATION
+nhân_viên bảo ko dịch_vụ booking tiền bảng giá niêm_yết khách_sạn giá nhân_viên báo_giá lung_tung đầu booking giá 1.000.000 khách_sạn nhân_viên lễ_tân mẫn bảo ko dịch_vụ booking bảo giá phòng 2 1.400.000 vnđ booking.vn nhân_viên bảo giảm_giá 1.200.000 vnđ|SERVICE
+mà phòng dơ cũ thất_vọng tiền khách_sạn phòng k tiền|ROOMS
+nhân_viên khó_chịu check in check out chậm_chạp|SERVICE
+nhân_viên thân_thiện nhiệt_tình|SERVICE
+nói_chung giá 140 k ng phòng 4 vật_chất giải_trí packo ổn :) toilet sạch 1 chút rèm cửa phòng tắm dính hơi cát t-t ga giường hơi sạn|HOTEL
+sạch_sẽ gọn_gàng hơi muỗi cửa_sổ đừng cửa đi hành_lang vô phòng dc|ROOMS
+do khách_sạn thoải_mái quyết_định cư tú 1 đêm ổn|HOTEL
+nhân_viên lịch_sự|SERVICE
+mình 1 ko ý_định :)|HOTEL
+bữa ổn|FOOD&DRINKS
+tuy_nhiên mặt_bằng giá khu_vực khách_sạn phòng đẹp|HOTEL
+thiết_kế bắt_mắt dễ_thương|HOTEL
+yêu nhân_viên golden điểm sấm cực_kỳ yêu ks bãi_biển khu vui_chơi giải_trí|SERVICE
+resort thiết_kế đẹp chi_tiết xinh_xắn iu|HOTEL
+mội nhân_viên hòa_đồng|HOTEL
+phòng sạch_sẽ|ROOMS
+ban nhạc tuyệt_vời|FACILITIES
+ngoài_ra giá booking đắt giá thuê|HOTEL
+phòng|ROOMS
+bữa ngon chất món lựa_chọn|FOOD&DRINKS
+bữa ngon khách_sạn 4|FOOD&DRINKS
+sẽ|HOTEL
+tôi đổi 3 đêm 2 đêm khách_sạn phí 30 đêm 3 booking.com khách_hàng cancel đổi ngày_trước 4 phí|HOTEL
+đồ hình_thức gọi món thức_ăn phong_phú nấu ngon lắm|FOOD&DRINKS
+nhân_viên lễ_tân nhiệt_tình chu_đáo kỹ dịch_vụ tour du_lịch|SERVICE
+thay_đổi chong_chóng|SERVICE
+nhân_viên nhiệt_tình|SERVICE
+nhân_viên thân_thiện nhiệt_tình tích_cực chào_đón bảo_vệ gầy gầy|SERVICE
+đánh_giá :)|HOTEL
+bữa chán đồ ngon|FOOD&DRINKS
+mình tưởng chủ giả_sử trung_thực cầm bừa tiền chủ thiệt :)|HOTEL
+view sông hàn đẹp|HOTEL
+i like much|HOTEL
+phòng_ngủ bẩn chỗ|ROOMS
+vòi_nước nóng lắp ngược cảnh_báo|ROOM_AMENITIES
+phòng đôi cửa_sổ|ROOMS
+có_thể tiếng nói_chuyện đóng cửa to|ROOMS
+tivi phòng ko đc đường truyền kém|ROOM_AMENITIES
+năm|HOTEL
+nhân_viên khách_sạn nhiệt_tình mến|SERVICE
+phục_vụ dễ_thương nhiệt_tình niềm_nở|SERVICE
+giá_cả hợp_lý|HOTEL
+cửa đóng|ROOMS
+khăn_tắm khăn_mặt trắng|ROOM_AMENITIES
+khách_sạn biển|LOCATION
+gần biển|LOCATION
+không quạt_điện điều_hòa chút bất_tiện|ROOM_AMENITIES
+tư_vấn nhiệt_tình|SERVICE
+gia_đình nhân_viên thân_thiện|SERVICE
+phòng suite cửa_sổ không_gian phòng thoáng|ROOM_AMENITIES
+nhân_viên nhiệt_tình thân_thiện|SERVICE
+phù hop khẩu vi|FOOD&DRINKS
+nhân_viên thân_thiện|SERVICE
+cho_thuê xe tại_chỗ nghỉ|FACILITIES
+đặc_biệt 2 vc checkin free đi tàu mệt_mỏi|SERVICE
+gia_đình kỳ nghỉ tuyệt_vời|HOTEL
+nước vòi hoa_sen chảy yếu bất_tiện|ROOM_AMENITIES
+phòng rộng sạch_sẽ view tương_đối đẹp bãi biển mỹ_khê|ROOMS
+1 thoải_mái|HOTEL
+bữa món việt phong_phú châu_âu khẩu_vị lắm|FOOD&DRINKS
+khách_sạn đối_diện biển bãi_tắm trung_tâm|LOCATION
+trần thấm hồ bơi nằm không_gian phòng đẹp|ROOMS
+view|HOTEL
+phòng_ốc sạch_sẽ|ROOMS
+buffet sơ_sài kết_thúc ghi phiếu|FOOD&DRINKS
+nhân_viên vui_vẻ hòa đồng thân_thiện|SERVICE
+hostel biển đi tầm 5 phút|LOCATION
+tôi không_gian tĩnh_lặng lãng_mạn ngập nắng gió biển|HOTEL
+bữa nghèo_nàn chán bánh_mì 2 mứt trứng trứng k hướng_dẫn|FOOD&DRINKS
+phòng rộng thoải_mái thoáng mát|ROOMS
+ăn_sáng tuyệt_vời|FOOD&DRINKS
+nhân_viên phục_vụ tệ|SERVICE
+gần biển|LOCATION
+bữa đồ_ăn phong_phú lắm|FOOD&DRINKS
+nhân_viên nhiệt_tình|SERVICE
+sàn gỗ cong vêng bong tróc áp_lực yếu|ROOM_AMENITIES
+phòng hạng phòng deluxe tiện_ích xông hơi phòng tắm hài_lòng|ROOM_AMENITIES
+địa_điểm yên_tĩnh không_gian xung_quanh ổn|HOTEL
+lúc phòng phòng rộng_rãi sạch_sẽ gọn_gàng không_gian thoáng view đẹp ban_công cảm_giác dễ_chịu|ROOMS
+có_thể deal giá thuê xe_máy nhân_viên 120 k|HOTEL
+nhân_viên phục lễ_tân vui_vẻ mến|SERVICE
+hsau ko ks|FOOD&DRINKS
+vừa biển trung_tâm|LOCATION
+dù_sao nhân_viên ksan nhiệt_tình nhanh_chóng đổi phòng|SERVICE
+các phòng rộng_rãi ban_công view|ROOMS
+bữa|FOOD&DRINKS
+vị_trí tuyệt_vời thuận_tiện chợ hàn cầu rồng cầu sông hàn|LOCATION
+nói_chung hài_lòng|HOTEL
+đồ ăn_vặt sẵn bếp giá hơi mắc 20.000 vnd hộp mỳ 30.000 vnd gói bánh|FOOD&DRINKS
+máy_lạnh tivi|ROOM_AMENITIES
+vị_trí|LOCATION
+nhân_viên nhiệt_tình tư_vấn chỗ đi bé quản_lý chăm|SERVICE
+bác bảo_vệ nhiệt_tình thân_thiện|SERVICE
+khách_sạn biển rất tiện_lợi|LOCATION
+tuyệt_vời|HOTEL
+bàn_chải cứng|ROOM_AMENITIES
+sẽ giới_thiệu bạn_bè ghé thăm|HOTEL
+trang_trí hài_hoà đẹp_mắt|ROOMS
+tuy_nhiên yen tĩnh sạch_sẽ|HOTEL
+nhân_viên dọn_dẹp lễ_tân nhiệt_tình|SERVICE
+nếu tìm_kiếm nghỉ lý_tưởng phòng đẹp nhân_viên thân_thiện nhiệt_tình charming đà_nẵng|HOTEL
+nhưng cặp_đôi|ROOMS
+phòng đẹp rộng_rãi thoải_mái|ROOMS
+vị_trí|LOCATION
+giường êm|ROOM_AMENITIES
+phòng sạch_sẽ thoải_mái|ROOMS
+chúng_tôi hài_lòng kỳ nghỉ happy_day|HOTEL
+mọi mong_đợi|HOTEL
+bữa bổ_sung món phong_phú|FOOD&DRINKS
+chỉ tận_tình giúp mua chả|SERVICE
+gần chợ cồn khu ăn_uống đường bạch_đằng|LOCATION
+nhưng mấy lễ_tân dễ_thương lắm quên mấy liền|SERVICE
+nhân_viên vui_vẻ thái_độ phục vục nhiệt_tình thân_thiện|SERVICE
+nhân_viên cẩn_thận gọi điện chu_đáo khách_sạn|SERVICE
+không_gian thoáng đãn view đẹp|HOTEL
+nếu dịp đà_nẵng happy_day|HOTEL
+gối|ROOM_AMENITIES
+có sky bar toàn_cảnh thành_phố thú_vị|FACILITIES
+t3 phòng ko ban_công ko view giá tầm 300 350 hợp_lý|ROOMS
+tuyệt_vời|HOTEL
+điều tiếc xảy phòng thông_báo hóa_đơn đi đợi xuất hóa_đơn|HOTEL
+sẽ lưu_trú kỳ nghỉ|HOTEL
+địa_điểm khu trung_tâm|LOCATION
+ngày check in báo ko xếp đc 2 phòng liền phòng hỏng gia_đình 2 phòng xếp 1 phòng tầng 3 1 phòng tầng 5|SERVICE
+bữa khách_sạn duy_nhất 1 món 1 phiếu r nhân_viên bê 1 bát mì quảng|FOOD&DRINKS
+khách_sạn|HOTEL
+nói_chung ok|HOTEL
+tuy_nhiên 1 khăn_mặt thay phòng đôi bẩn vết đen khăn ko dám|ROOM_AMENITIES
+chúng_tôi kỳ nghỉ tuyệt_vời 3 2 đêm happy_day|HOTEL
+khi chỗ ngon tiếp_tân hẳn list món bánh_xèo mì quảng bún mắm chả_cá hải_sản ... ngoài_ra giường gối máy_lạnh vật_dụng|ROOM_AMENITIES
+nhân vien bảo_vệ nhiệt_tình dễ_thương|SERVICE
+xong cải_thiện khả_năng giao_tiếp tiếng anh chất_lượng dịch_vụ :)|SERVICE
+nhất_định ks_happy day|HOTEL
+phòng nghỉ thoải_mái yên_tĩnh|ROOMS
+thỉnh_thoảng chủ đi kiếm chủ hơi mệt|HOTEL
+ăn_sáng tệ|FOOD&DRINKS
+như đoàn trưa xong chờ tương_đối check in khách_sạn|HOTEL
+đi biển 7 p ko thang_máy hơi khu trung_tâm đi đường nguyễn_văn_thoại 10 p phòng_bị khách_sạn cạnh xây che tầm biển|ROOMS
+nhà_vệ_sinh mùi cóng bốc|ROOM_AMENITIES
+nvien ksan nhiệt_tình|SERVICE
+mình phòng phòng siêu trễ đồng_ý cười tươi|SERVICE
+giá_cả hợp_lý|HOTEL
+nhân_viên thoải_mái nhiệt_tình|SERVICE
+ăn_sáng buffe hơi lựa_chọn|FOOD&DRINKS
+tiền thuê xe san liên_hệ hơi mắc xe|FACILITIES
+chị lễ_tân thân_thiện|SERVICE
+sáng_sớm tối ầm_ĩ khách_sạn cạnh xây_dựng giá phòng giảm_giá|HOTEL
+lễ_tân chuyên_nghiệp 2 ngôn_ngữ|SERVICE
+buổi ngon nhân_viên viên nhà_hàng phục_vụ chu_đáo|FOOD&DRINKS
+có phòng máy_lạnh wifi miễn_phí nhân_viên hiếu_khách nhiệt_tình|FACILITIES
+nhân_viên nhẹ_nhàng thân_thiện|SERVICE
+bữa ổn|FOOD&DRINKS
+nhân_viên phục_vụ 1 thiếu_sót đồ_ăn khach ngón chạm đồ_ăn cơm canh|SERVICE
+phòng gym đầy_đủ tiện_nghi|FACILITIES
+nhất_định 2|HOTEL
+nhà_tắm sạch_sẽ|ROOM_AMENITIES
+phòng gương|ROOM_AMENITIES
+phòng cách_âm ồn thang_máy|ROOMS
+đặt phòng suite phòng nằm k cửa_kính ban_công book|ROOMS
+lễ_tân khách_sạn nhiệt_tình tư_vấn ăn_uống vui_chơi|SERVICE
+đặc_biệt quý ấn_tượng cháu nguyễn_t._thúy_hằng-nv lễ_tân ks_happy day-160 bạch_đằng-đà_nẵng chu_đáo nhiệt_tình cởi_mở thân_thiện|SERVICE
+đường đi khách_sạn đi xe_máy hơi 😉 đi taxi 🤗|LOCATION
+cửa phòng kêu ồn phòng cạnh|ROOMS
+mình bé 3 phòng đêm muỗi ngủ|ROOMS
+đồ mì xào ngon|FOOD&DRINKS
+rất chọn_lựa đà_nẵng|HOTEL
+nhân_viên phục_vụ nhiệt_tình vui_vẻ|SERVICE
+nhà_tắm tầng rộng_rãi lối đi thẳng cổng thuận_tiện đi tắm biển|HOTEL
+ngày đi :))|SERVICE
+nhất_là mr._lân máy sấy phòng|ROOM_AMENITIES
+hệ_thống 1 phòng máy_nước nóng hoạt_động mưa_bão hỏng hệ_thống tắm 2|ROOM_AMENITIES
+bữa ngon đa_dạng|FOOD&DRINKS
+chưa lắp quạt|ROOM_AMENITIES
+nhân_viên thân_thiện|SERVICE
+bữa món|FOOD&DRINKS
+lễ_tân tạm ổn|SERVICE
+giường thoải_mái thường_xuyên vệ_sinh quạt phòng|ROOM_AMENITIES
