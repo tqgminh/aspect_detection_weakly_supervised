@@ -21,7 +21,7 @@ The dataset we used to train consists a set of sentences which are in reviews ab
 * **Restaurant**: General, Restaurant, Food, Drinks, Location, Ambience, Sevice
 * **Hotel**: General, Room amenities, Service, Rooms, Location, Food & Drinks, Facilities
 
-Note that we only use sentences that refer to one aspect of a domain. Because training does not need labeled data, we crawled more reviews about restaurant on [Tripadvisor](https://www.tripadvisor.com.vn/) for more efficient training.
+Note that we only use sentences that refer to one aspect of a domain. Because training does not need labeled data, we crawled more reviews about hotels on [Tripadvisor](https://www.tripadvisor.com.vn/) for more efficient training.
 
 # How to run
 
