@@ -1,6 +1,6 @@
 # Weakly Supervised Aspect Detection
 
-In this project, I implement the method proposed by Karamanolakis el at. in EMNLP 2019 paper "[Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training](https://www.aclweb.org/anthology/D19-1468/)" which
+In this project, I implement the method proposed by Karamanolakis et al. in EMNLP 2019 paper "[Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training](https://www.aclweb.org/anthology/D19-1468/)" which
 uses only a few keywords to train the classifier of sentences in a review into aspects of a domain (restaurant, hotel) on Vietnamese.
 
 The method trains the classifier with a large amount of **unlabeled data** through a **teacher-student** architecture:
@@ -12,7 +12,7 @@ The lost function of **student** model is the cross-entropy between the student'
 
 # Keyword Extraction
 
-From an amount of labeled data, we can get a list of keywords automatically. To extract a list of keywords for each aspect, I use a variant of the **clarity** scoring function which was first introduced in information retrieval by Cronen-Townsend et at. ([paper](https://dl.acm.org/doi/10.1145/564376.564429)). The method is implemented in detail in `get_seeds.ipynb`.
+From an amount of labeled data, we can get a list of keywords automatically. To extract a list of keywords for each aspect, I use a variant of the **clarity** scoring function which was first introduced in information retrieval by Cronen-Townsend et al. ([paper](https://dl.acm.org/doi/10.1145/564376.564429)). The method is implemented in detail in `get_seeds.ipynb`.
 
 # Dataset
 
